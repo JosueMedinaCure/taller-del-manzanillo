@@ -1,0 +1,467 @@
+* ::before ::after{
+         margin: 0;
+         padding: 0;
+         box-sizing: border-box;
+         }
+                  
+         body {
+         color: rgb(255, 255, 255);
+         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         background-color: dodgerblue;
+         }
+                  
+         
+         .container img{
+         
+                  width: 100%;
+                  height: 100%;
+         }
+         
+         
+         .container{
+                  
+         width: 800px;
+         height: 600px;
+         overflow: hidden;
+         position: relative;
+         margin: 200px auto;
+         border-radius: 20px;
+         box-shadow: 5px 8px 12px black ;
+         top: 50%;
+         }
+
+         
+            
+         
+         .CodServicio{
+
+         border-color: white;
+         color: white;
+         position: absolute;
+         top: 19.20%;
+         left: 28%;
+
+         }
+
+         #codigo{
+
+                  border-radius: 20px; 
+                  border-color: rgb(255, 255, 255);
+                  width: 111px;        
+                  padding:1px 30px 4px 8px;
+                  
+         }
+
+         .Buscador{
+
+            border-color: rgb(0, 8, 116);
+            color: rgb(255, 255, 255);
+            position: absolute;
+            top: 18.20%;
+            left: 60%;
+   
+            }
+   
+            #buscador{
+   
+                     border-radius: 5px;
+                     border-color: rgb(0, 19, 194);
+                     width: 111px;        
+                     padding:1px 30px 4px 8px;
+                     
+            }
+         
+         .TipoDoc{
+
+            border-color: rgb(255, 253, 253);
+            color: rgb(0, 0, 0);
+            position: absolute;
+            top: 23.80%;
+            left: 23%;
+             border-radius: 20px; 
+             border-color: rgb(255, 255, 255);
+             width: 152px;        
+             padding: 1px 30px 5px 1px;
+            }
+
+            .Nit{
+
+                border-color: white;
+                color: white;
+                position: absolute;
+                top: 23.80%;
+                left: 71.10%;
+       
+            }
+       
+            #nit{
+       
+            border-radius: 20px; 
+            border-color: rgb(255, 255, 255);
+             width: 111px;        
+            padding: 1px 30px 4px 8px;
+            }
+
+            .NomRazonSocial{
+
+                border-color: rgb(255, 253, 253);
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 28.70%;
+                left: 28%;
+       
+                }
+       
+                #Razon{
+                
+                                  
+                 border-radius: 20px; 
+                 border-color: rgb(255, 255, 255);
+                 width: 111px;        
+                 bottom: 0;
+                 left: 0;
+                 width: 488px;
+                 height: 18px;
+                }
+
+                .Telefono{
+
+                    border-color: rgb(255, 253, 253);
+                    color: rgb(255, 255, 255);
+                    position: absolute;
+                    top: 33.29%;
+                    left: 28%;
+           
+                    }
+           
+                    #numero{
+           
+                     border-radius: 20px; 
+                     border-color: rgb(255, 255, 255);
+                     width: 111px;        
+                     padding: 1px 30px 4px 8px;
+                    }
+                    
+                    .Direccion{
+
+                        border-color: rgb(255, 253, 253);
+                        color: rgb(255, 255, 255);
+                        position: absolute;
+                        top: 33.70%;
+                        left: 71.10%;
+               
+                        }
+               
+                        #direccion{
+               
+                         border-radius: 20px; 
+                         border-color: rgb(255, 255, 255);
+                         width: 111px;        
+                         padding: 1px 30px 4px 8px;
+                        }
+
+                        .Email{
+
+                            border-color: rgb(255, 253, 253);
+                            color: rgb(255, 255, 255);
+                            position: absolute;
+                            top: 38.29%;
+                            left: 28%;
+                   
+                            }
+                   
+                            #email{
+                   
+                             border-radius: 20px; 
+                             border-color: rgb(255, 255, 255);
+                             width: 111px;        
+                             padding: 1px 30px 4px 8px;
+                            }
+                            
+                            .Articulo{
+        
+                                border-color: rgb(255, 253, 253);
+                                color: rgb(255, 255, 255);
+                                position: absolute;
+                                top: 38.13%;
+                                left: 71.10%;
+                       
+                                }
+                       
+                                #articulo{
+                       
+                                 border-radius: 20px; 
+                                 border-color: rgb(255, 255, 255);
+                                 width: 111px;        
+                                 padding: 1px 30px 4px 8px;
+                                }
+
+                                .Modelo{
+        
+                                    border-color: rgb(255, 253, 253);
+                                    color: rgb(255, 255, 255);
+                                    position: absolute;
+                                    top: 42.89%;
+                                    left: 27.99%;
+                           
+                                    }
+                           
+                                    #modelo{
+                           
+                                     border-radius: 20px; 
+                                     border-color: rgb(255, 255, 255);
+                                     width: 111px;        
+                                     padding: 1px 30px 4px 8px;
+                                    }
+                                    .TipoDeServicio{
+        
+                                        border-color: rgb(255, 253, 253);
+                                        color: rgb(255, 255, 255);
+                                        position: absolute;
+                                        top: 42.63%;
+                                        left: 71.10%;
+                                        
+                               
+                                        }
+                               
+                                        #tipodeservicio{
+                               
+                                         border-radius: 20px; 
+                                         border-color: rgb(82, 23, 23);
+                                         width: 111px;        
+                                         padding: 1px 30px 4px 8px;
+                                        }
+                                        .Serie{
+        
+                                            border-color: rgb(255, 253, 253);
+                                            color: rgb(255, 255, 255);
+                                            position: absolute;
+                                            top: 47.78%;
+                                            left: 27.99%;
+                                   
+                                            }
+                                   
+                                            #serie{
+                                   
+                                             border-radius: 20px; 
+                                             border-color: rgb(255, 255, 255);
+                                             width: 111px;        
+                                             padding: 1px 30px 1px 4px;
+                                            
+                                            }
+                                            .Estado{
+                
+                                                border-color: rgb(255, 253, 253);
+                                                color: rgb(255, 255, 255);
+                                                position: absolute;
+                                                top: 47.53%;
+                                                left: 71.10%;
+                                       
+                                                }
+                                       
+                                                #estado{
+                                       
+                                                 border-radius: 20px; 
+                                                 border-color: rgb(255, 255, 255);
+                                                 width: 111px;        
+                                                 padding: 1px 30px 4px 8px;
+                                                 
+                                                }
+
+                                                .LugarDeAtencion{
+
+                                                    border-color: rgb(255, 253, 253);
+                                                    color: rgb(255, 255, 255);
+                                                    position: absolute;
+                                                    top:52.40%;
+                                                    left: 28%;
+                                           
+                                                    }
+                                           
+                                                    #lugar{
+                                                    
+                                                                      
+                                                     border-radius: 20px; 
+                                                     border-color: rgb(255, 255, 255);
+                                                     width: 111px;        
+                                                     width: 488px;
+                                                     height: 18px;
+                                                    }
+
+
+                                                     .Defectos{
+                                                        
+                                                    
+                                                        border-color: rgb(255, 253, 253);
+                                                        color: rgb(255, 255, 255);
+                                                        position: absolute;
+                                                        top: 57.60%;
+                                                        left: 28.05%;
+                                                     }
+                                                     
+                                                     #defectos{
+                                                        border-radius: 15px; 
+                                                     border-color: rgb(250, 248, 248);
+                                                            
+                                                     
+                                                     width: 488px;
+                                                     height: 37px;
+                                                     
+                                                    }
+                                                       
+                                                    .Observaciones{
+                                                        
+                                                    
+                                                        border-color: rgb(255, 253, 253);
+                                                        color: rgb(255, 255, 255);
+                                                        position: absolute;
+                                                        top: 65.90%;
+                                                        left: 28.05%;
+                                                     }
+                                                     
+                                                     #observaciones{
+                                                        border-radius: 15px; 
+                                                     border-color: rgb(250, 248, 248);
+                                                             
+                                                     
+                                                     width: 488px;
+                                                     height: 37px;
+                                                     
+                                                    }
+
+                                                    .EstadoEncontrado{
+        
+                                                        border-color: rgb(255, 253, 253);
+                                                        color: rgb(255, 255, 255);
+                                                        position: absolute;
+                                                        top: 74.48%;
+                                                        left: 27.99%;
+                                               
+                                                        }
+                                               
+                                                        #estadoencontrado{
+                                               
+                                                         border-radius: 20px; 
+                                                         border-color: rgb(255, 255, 255);
+                                                         width: 111px;        
+                                                         padding: 1px 30px 4px 8px;
+                                                        }
+
+                                                        .Garantia{
+                
+                                                            border-color: rgb(255, 253, 253);
+                                                            color: rgb(255, 255, 255);
+                                                            position: absolute;
+                                                            top: 74.19%;
+                                                            left: 71.10%;
+                                                   
+                                                            }
+                                                   
+                                                            #garantia{
+                                                   
+                                                             border-radius: 20px; 
+                                                             border-color: rgb(255, 255, 255);
+                                                             width: 111px;        
+                                                             padding: 1px 30px 4px 8px;
+                                                            }
+
+                                                            .TiempoDeGarantia{
+        
+                                                                border-color: rgb(255, 253, 253);
+                                                                color: rgb(255, 255, 255);
+                                                                position: absolute;
+                                                                top: 79.38%;
+                                                                left: 27.99%;
+                                                       
+                                                                }
+                                                       
+                                                                #tiempogarantia{
+                                                       
+                                                                 border-radius: 20px; 
+                                                                 border-color: rgb(255, 255, 255);
+                                                                 width: 111px;        
+                                                                 padding: 1px 30px 4px 8px;
+                                                                }
+        
+                                                                .ValorServicio{
+                        
+                                                                    border-color: rgb(255, 253, 253);
+                                                                    color: rgb(255, 255, 255);
+                                                                    position:absolute;
+                                                                    top: 79%;
+                                                                    left: 71.10%;
+                                                                    
+                                                           
+                                                                    }
+                                                           
+                                                                    #valorservicio{
+                                                           
+                                                                     border-radius: 20px; 
+                                                                     border-color: rgb(255, 255, 255);
+                                                                     width: 111px;        
+                                                                     padding: 1px 30px 4px 8px;
+                                                                     position:absolute;
+                                                                     
+
+                                                                    }
+                                                        
+                                                        
+                                                     
+                                                     .menuprincipal{
+
+                                                        width: 190px;
+                                                        top: 89.67%;
+                                                        left: 19.40%;
+                                                        position:absolute;
+                                                        opacity: 90%;
+                                                     }
+                                                     
+                                                     .guardar{
+
+                                                        width: 140px;
+                                                        top: 89.50%;
+                                                        left: 44.40%;
+                                                        position:absolute;
+                                                        
+                                                     }
+
+                                                     .salir{
+
+                                                        width: 139px;
+                                                        top: 89.20%;
+                                                        left: 63.10%;
+                                                        position:absolute;
+                                                        
+                                                     }
+                                                     
+                                                    .buscar{
+
+                                                        width: 139px;
+                                                        top: 89.20%;
+                                                        left: 69.10%;
+                                                        position:absolute;
+                                                    }
+
+                                                    .editar{
+
+                                                        width: 50px;
+                                                        top: 18.20%;
+                                                        left: 85.10%;
+                                                        position:absolute;
+                                                    }
+
+                                                     
+                                                   
+
+                                                    
+                                                    
+                                             
+
+                                                   
+                                                
+                                                        
+
+
+                
+
+         

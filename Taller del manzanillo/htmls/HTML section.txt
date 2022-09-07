@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         
+         <title>Document</title>
+         <link rel="stylesheet" href="servicio.css">
+</head>
+<body>
+         
+         <section class="container">
+
+                  <img src="orden de servicio.jpeg" alt="">
+
+                  <div class="CodServicio "> 
+                            <form >
+                                     <div class="CodServicio" > <input type="text" id="codigo" placeholder=""></div>
+                            </form>
+                  </div>
+
+
+
+
+                 <div class="TipoDoc "> 
+
+                           <form >
+                            <div class="TipoDoc" > <input type="text" id="TipoDoc" placeholder=""></div>
+                           </form>
+                  </div>
+                         <div class="Nit "> 
+
+                                <form >
+                                         <div class=" Nit" > <input type="text" id="nit" placeholder=""></div>
+                                </form>
+                        </div>
+
+
+
+
+        <div class="NomRazonSocial "> 
+
+                   <form >
+                           <div class="NomRazonSocial
+                           " > <input type="text" id="Razon" placeholder=""></div>
+                   </form>
+         </div>
+
+
+
+
+
+         <div class="Telefono " >
+                   
+                   <form >
+                           <div class="Telefono" > <input type="text" id="numero" placeholder=""></div>
+                   </form>
+         </div>
+                <div class="Direccion "> 
+
+                         <form >
+                                 <div class="Direccion" > <input type="text" id="direccion" placeholder=""></div>
+                         </form>
+                 </div>
+
+
+
+
+
+         <div class="Email "> 
+
+                   <form >
+                           <div class="Email" > <input type="text" id="email" placeholder=""></div>
+                   </form>
+         </div>
+                <div class="Articulo "> 
+
+                         <form >
+                                 <div class="Articulo" > <input type="text" id="articulo" placeholder=""></div>
+                         </form>
+                </div>
+
+
+
+
+         <div class=" Modelo "> 
+
+                  <form >
+                          <div class="Modelo" > <input type="text" id="modelo" placeholder=""></div>
+                   </form>
+         </div>
+                <div class="TipoDeServicio "> 
+
+                        <form >
+                                <div class="TipoDeServicio" > <input type="text" id="tipodeservicio" placeholder=""></div>
+                        </form>
+                </div>
+
+
+
+
+         <div class="Serie "> 
+
+                  <form >
+                           <div class="Serie" > <input type="text" id="serie" placeholder=""></div>
+                  </form>
+        </div>
+                <div class="Estado "> 
+
+                          <form >
+                                   <div class=" Estado" > <input type="text" id="estado" placeholder=""></div>
+                          </form>
+                </div>
+
+
+
+
+         <div class="LugarDeAtencion "> 
+
+                  <form >
+                           <div class="LugarDeAtencion" > <input type="text" id="lugar" placeholder=""></div>
+                  </form>
+         </div>
+
+
+         
+<!--          <div class="Defectos"> 
+
+                  <form >
+                            <div class="Defectos" > <input type="text" id=" defectos" placeholder=""></div>
+                  </form>
+         </div>
+
+
+
+
+         <div class=" Observaciones"> 
+
+                  <form >
+                           <div class="Observaciones" > <input type="text" id="observaciones" placeholder=""></div>
+                  </form>
+         </div>
+
+
+
+
+         <div class="EstadoEncontrado "> 
+
+                  <form >
+                           <div class="EstadoEncontrado" > <input type="text" id="codigo" placeholder="Ingrese el codigo"></div>
+                  </form>
+         </div>
+                 <div class="Garantia "> 
+
+                        <form >
+                                <div class="Garantia" > <input type="text" id="codigo" placeholder="Ingrese el codigo"></div>
+                        </form>
+                </div>
+
+
+
+
+
+         <div class="TiempoDeGarantia "> 
+
+                  <form >
+                           <div class="TiempoDeGarantia" > <input type="text" id="codigo" placeholder="Ingrese el codigo"></div>
+                  </form>
+         </div>
+                        <div class="ValorServicio "> 
+
+                        <form >
+                                   <div class="ValorServicio" > <input type="text" id="codigo" placeholder="Ingrese el codigo"></div>
+                        </form>       
+                </div>
+ -->
+        <div class="Defectos">
+
+                <form>
+                         <div class="Defectos">  <imput type="text" id="defectos" aria-placeholder="" > </div>
+                </form>
+        </div>
+         
+        
+        <div class="menuprincipal">
+
+                <a href=""> <img src="menu principal.PNG" alt=""></a>
+        </div>
+
+        <div class="guardar">
+                
+                <a href=""> <img src="guardar.PNG" alt=""></a>
+        </div>
+
+        <div class="salir">
+                <a href=""> <img src="salir.PNG" alt="">
+                </a>
+
+        </div>
+
+
+
+
+         </section>
+</body>
+</html>                    

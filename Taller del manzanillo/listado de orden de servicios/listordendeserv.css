@@ -1,0 +1,161 @@
+* ::before ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+             
+    body {
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: dodgerblue;
+    }
+             
+    
+    .container img{
+    
+             width: 100%;
+             height: 100%;
+    }
+    
+    
+    .container{
+             
+    width: 800px;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+    margin: 200px auto;
+    border-radius: 20px;
+    box-shadow: 5px 8px 12px black ;
+    top: 50%;
+    }
+
+    table, th tr{
+    position: absolute;
+    color: black;
+    
+    top: 21.2%;
+    left: 2.55%;
+    width: 90%;
+    height:5px;
+    font-size: 7px;
+    padding: -1px -1px -1px -1px ;
+    
+    
+} 
+    .table, th, tr {
+        /* border: 1px solid rgb(0, 255, 0); */
+        border-collapse:collapse ;
+        width: 756px;
+        
+        
+    }
+
+    .table-head{
+        color: rgb(3, 3, 3);
+        height: 20px;
+        visibility: hidden;
+
+        
+       
+        
+    }
+
+    .table-body{
+        height: 370px;
+        
+    }
+
+    .codser{
+        
+        width: 1%;
+    }
+    .tipodoc{
+        width: 3%;
+    }
+    .docum{
+        width:  5.40%;
+    }
+    
+    .nomraz{
+        width:7.90%;
+    }
+    .telefono{
+        width: 4.80%;
+    }
+    .direccion{
+        width: 5.70%;
+    }
+   
+    .email{
+        width: 5.20%;
+    }
+    .articulo{
+        width: 4.60%;
+    }
+    .modelo{
+        width: 5.20%;
+    }
+    .tipserv{
+        width: 6%;
+    }
+    .serie{
+        width: 6%;
+    }
+    .estado{
+        width: 5.10%;
+    }
+
+    .latencion{
+
+        width:5.10%;
+    }
+    .drepclien{
+
+        width: 5%;
+    }
+    .observ{
+        width:4.20%;
+    }
+    .Estado{
+        width: 5.30%;
+    }
+    .garantia{
+        width: 5%;
+    }
+    .tipgara{
+        width: 4.50%;
+    }
+    .vserv{
+        width: 4%;
+    }
+
+
+
+    .salir{
+
+        width: 140px;
+        top: 88.50%;
+        left: 73%;
+        position:absolute;
+        
+     }
+    .menu{
+        width: 199px;
+        top: 88.50%;
+        left: 09.10%;
+        position:absolute;
+    }
+    .informes{
+
+        width: 139px;
+        top: 88.50%;
+        left: 35.10%;
+        position:absolute;
+    }
+.imprimir{
+    width: 139px;
+        top: 88.50%;
+        left: 54.10%;
+        position:absolute;
+}

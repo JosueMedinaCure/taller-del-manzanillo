@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        
+         <title>Document</title>
+         <link rel="stylesheet" href="menu.css">
+</head>
+         <title> taller del manzanillo </title>
+<body>
+         
+         <section class="container">
+                  <img src="menu.jpeg" alt="una imagen">
+
+                  <div class="informe">
+                           <a href=""> <img src="informes.PNG" alt=""> </a>
+                  </div>
+
+                  <div class="servicio">
+                           <a href=""> <img src="servicio.PNG" alt=""></a>
+                  </div>
+
+                  <div class="inventario">
+                           <a href=""><img src="inventario.PNG" alt=""></a>
+                  </div>
+
+                  <div class="RegClient">
+                           <a href=""> <img src="registro clientes.PNG" alt=""></a>
+                  </div>
+
+                  <div class="RegColab">
+                           <a href=""> <img src="registro colaboradores.PNG" alt=""></a>
+                  </div>
+
+                  <div class="salir">
+                           <a href=""> <img src="salir.PNG" alt=""></a>
+
+                  </div>
+
+         </section>
+
+</body>
+
+</html>
